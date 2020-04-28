@@ -1,5 +1,4 @@
-# phpbookingsystemAPI
-# UPDATES
+# Core PHP booking System (PHP API Only)
 
 > April 28 2020:-
 * FrontEnd Login API
